@@ -2,10 +2,10 @@
 
 ## Mod 4 Deliverables:
 * Cold Outreach/Networking Deliverable (pick one of these three):
-    * Cold Outreach Emails: [Link to gist](https://gist.github.com/stovermc/4ed08338561e5d29f2cc7dbcb6998d25): 
+    * Cold Outreach Emails: [Link to Cold Outreach gist](https://gist.github.com/stovermc/4ed08338561e5d29f2cc7dbcb6998d25) 
 * Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* Summary of participation in practice interview and/or actual interview using these [Link to Practice Interview gist](https://gist.github.com/stovermc/36882b00b19008b14374b17a7e06b879d)
+* Link to completed action plan for the post-grad job search using this [Link to Action Plan](https://gist.github.com/stovermc/c3be69ec1c9c534a91af3a2702ef8e18)
 
 ## Mod 3 Deliverables:
 
